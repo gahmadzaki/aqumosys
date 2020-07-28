@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>462938606147-6a4fm4qol15eg5a18r8krvpo0kbo82it.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.462938606147-6a4fm4qol15eg5a18r8krvpo0kbo82it</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>462938606147-k7b10f8f3mq77g776otv5pu6csgv5kas.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAPdkv8sxUdGCUEAP5EhtXWfYj84xvbUpM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>462938606147</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.yunip.aquamonitoring</string>
+	<key>PROJECT_ID</key>
+	<string>aqumosys</string>
+	<key>STORAGE_BUCKET</key>
+	<string>aqumosys.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:462938606147:ios:fbaaaf80b8eae4e1c5a2f6</string>
+	<key>DATABASE_URL</key>
+	<string>https://aqumosys.firebaseio.com</string>
+</dict>
+</plist>

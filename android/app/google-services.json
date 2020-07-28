@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "462938606147",
+    "firebase_url": "https://aqumosys.firebaseio.com",
+    "project_id": "aqumosys",
+    "storage_bucket": "aqumosys.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462938606147:android:7ef55da83684a7f4c5a2f6",
+        "android_client_info": {
+          "package_name": "com.example.aqumosys"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "462938606147-bj69s6kvkaleffot1cqhseks32jt3s9h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aqumosys",
+            "certificate_hash": "2a6940ea5c4ce16bcc9386b2a5b9d4fa2896369e"
+          }
+        },
+        {
+          "client_id": "462938606147-snvci42i1fegsv2pqfcms12hh0rq5p35.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aqumosys",
+            "certificate_hash": "0ea657960424f5280a95d2c4c85cb59816322025"
+          }
+        },
+        {
+          "client_id": "462938606147-8mfie6noeuibdua1qr77miubt673jpqj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb-FN7hhxn5__mS82GLzq2E0HVoIezTOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "462938606147-8mfie6noeuibdua1qr77miubt673jpqj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "462938606147-6a4fm4qol15eg5a18r8krvpo0kbo82it.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.yunip.aquamonitoring"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462938606147:android:e792b76ffd45b887c5a2f6",
+        "android_client_info": {
+          "package_name": "com.monitoring.aqumosys"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "462938606147-8mfie6noeuibdua1qr77miubt673jpqj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb-FN7hhxn5__mS82GLzq2E0HVoIezTOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "462938606147-8mfie6noeuibdua1qr77miubt673jpqj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "462938606147-6a4fm4qol15eg5a18r8krvpo0kbo82it.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.yunip.aquamonitoring"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
